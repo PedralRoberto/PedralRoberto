@@ -3,7 +3,7 @@
 <div>
     <ul>
 	    <li>⚡ I’m Roberto Pedral</li>
-		<li>📚 Computer Science Student - 9/9</li>
+		<li>📚 UI/UX Designer</li>
 		<li>📍  Brazil</li>
     </ul>
 </div>
